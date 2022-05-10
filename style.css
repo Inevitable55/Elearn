@@ -147,3 +147,8 @@ nav{
     height: 1;
     }
 }
+
+
+input:focus::placeholder {
+  color: transparent;
+}
