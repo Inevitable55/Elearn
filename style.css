@@ -148,7 +148,6 @@ nav{
     }
 }
 
-
-input:focus::placeholder {
+input:focus::placeholder{
   color: transparent;
 }
