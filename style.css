@@ -55,6 +55,9 @@ nav{
 
 }
 
+input:focus::placeholder {
+  color: transparent;
+}
 .btn{
     background: #ff3d00;
     color: #fff;
@@ -146,8 +149,4 @@ nav{
     width: auto;
     height: 1;
     }
-}
-
-input:focus::placeholder{
-  color: transparent;
 }
